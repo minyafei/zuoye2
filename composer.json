@@ -1,0 +1,15 @@
+{
+    "name": "minyafei/zuoye2",
+    "type": "project",
+    "require": {
+        "houdunwang/log": "*"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "F",
+            "email": "18221505541@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
